@@ -1,0 +1,70 @@
+﻿DE;FR;EN
+"
+
+Angaben zur meldepflichtigen Person";"
+
+Informations de la personne soumise à notification";"
+
+
+
+Information of the reportable person"
+"
+
+Nächster Verarbeitungsschritt: 
+Eingabe prüfen für Haupt- und Subereignisse";"
+
+Prochaine étape de traitement: 
+Vérifier la saisie pour l'événement principal et les sous-événements";"
+
+Next processing step: 
+Check entries for main and sub events"
+Überschreit.;Dépass.;Exceed.
+Überschreitung;Découvert;Exceedance
+Überschreitungen;Découverts;Exceedances
+Überschreitungsregel erfassen auf  Konto {{account}};Saisir la règle de dépassement sur le compte {{account}};Enter exceedance rule on account {{account}}
+Überschuss;Excédent;Surplus
+Übersicht;Aperçu;Overview
+Übersicht - Listenauftrag;Aperçu - Ordre collectif;Overview - block order
+Übersicht Fälligkeiten;Vue d'ensemble des échéances;Overview of maturities
+Übersicht Hypothekarprodukte;Vue d'ensemble des produits hypothécaires;Overview mortgage products
+Übersicht Kollektivanlagen - TER intransparent;Vue d'ensemble des placements collectifs - TER non transparents;Collective investments overview - TER non-transparent
+Übersicht Kollektivanlagen - TER transparent;Vue d'ensemble des placements collectifs - TER transparents;Collective investments overview - TER transparent
+Übersicht pro Aufwandkonto;Aperçu par compte de charge;Overview per expense account
+Übersicht pro Erfolgskonto;Vue d'ensemble par compte de gestion;Overview per income statement account
+Übersicht Vollmachtsregelung ;Vue d'ensemble de la réglementation des procurations ;Overview of power of attorney rule 
+Übersteuerbare Kunde/Konto Sperre vorhanden:%s;Blocage de client/compte remplaçable:%s;Overridable client/account block in place: %s
+Übersteuern,Abbrechen;Contrôler,Interrompre;Override,Abort
+Übertrag;Report;Transfer
+Übertrag Cashpooling;Report du Cashpooling;Cashpooling carry forward
+Übertragung und Verteilung von Elektrizität;Transfert et distribution d'électricité;Transmission and distribution of electricity
+Übertragungsvollmacht (nur für Namenaktien, die keine Bucheffekten sind);Procuration de transfert (seulement pour les actions nominatives qui ne sont pas des titres intermédiés);"Power of attorney to transfer (only for registered shares not affected by the Swiss ""Bucheffektengesetz"")"
+Überwach.termin;Délai de survei.;Monitoring date
+Überwachungsschlussfolgerung erreicht für DNSH oder MS;Conclusion de surveillance obtenue pour DNSH ou MS;Monitoring conclusion reached for DNSH or MS
+Überweisen;Effectuer le virement;Transfer
+Überweisung in EUR;Virement en EUR;Transfer in EUR
+Überzogen-seit-Datum zu folgendem Kunden nicht gefunden: %s. Verarbeitung abgebrochen.;Date-découvert-depuis pas trouvée pour les clients suivants: %s. Traitement interrompu.;Overdrawn since date not found for folowing client: %s. Processing aborted.
+Überzug;Découvert;Overdraft
+Überzug aufgehoben;Découvert désactivé;Overdraft cancelled
+Überzug aufgehoben, da Konto Teil eines Rahmenkredites mit floatender Limite;Découvert désactivé: le compte concerne un crédit cadre avec limite flottante.;Overdraft cancelled because account is part of a credit line with floating limit
+Überzug besteht noch hat nun aber die Bearbeitungspflicht unterschritten;découvert persistant, mais est inférieur à l'obligation de traitement;Overdraft still exists yet does not require to be processed
+Überzug durch automatische Massenmahnung gemahnt;découvert rappelé par un rappel de masse automatique;Overdraft reminder via automatic mass reminder
+Überzug muss durch einen anderen Benutzer bearbeitet werden.;Le découvert doit être traité par un autre utilisateur.;Overdraft must be processed by another user.
+Überzug muss zuerst gemahnt werden. Vorher sind keine rechtlichen Schritte möglich.;Le découvert doit d'abord faire l'objet d'un rappel. Aucune procédure juridique n'est possible avant.;Deposit must be demanded first. No legal proceedings are possible beforehand.
+Überzug seit;Découvert depuis;Overdraft since
+Überzug wird bereits durch Benutzer %s bearbeitet.;Le découvert est déjà traité par l'utilisateur %s.;Overdraft is being processed by user %s.
+Überzug wird durch andere Benutzer (%s) bearbeitet.;Le découvert est traité par un autre utilisateur (%s).;Overdraft is being processed  by other users (%s).
+Überzugsbetrag;Montant du découvert;Overdraft amount
+Überzugsfiche vom;Fiche de découvert du;Overdraft fiche from
+Überzugsliste;Liste de découvert;Overdraft list
+Überzugsstatus;Statut du découvert;Overdraft status
+Überzugszins;Taux de découvert;Overdraft interest
+Übrige Anlagen;Autres placements;Other investments
+Übrige Kriterien;Critères complémentaires;Other criteria
+Übriger Fehler (siehe AL_LOG);Autre erreur (voir AL_LOG);The portfolio ... field must be filled in!
+ändern,beibehalten;Changer, conserver;change,retain
+ändern/löschen;modifier/supprimer;change/delete
+über;plus de;more than
+überbordend, kurzfristig nicht verkraftbar;Excessifs, pas supportable à court terme;Excessive, unsustainable over the short term
+überschüssiger Betrag;Montant excédentaire;Surplus amount
+übrig bleiben;restants;to be left over
+übrige Ausstände;autres arriérés;Other outstanding payments
